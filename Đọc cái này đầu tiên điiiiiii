@@ -6,3 +6,5 @@ Soooooo, AutoStylish, sản phẩn cho SINNO Hackathon của nhóm SoFa (ý là 
 
 Sản phần thu thập hình ảnh người dùng, số đo cơ thể và ngữ cảnh để đề xuất các phong cách thời trang phù hợp cho người dùng sử dụng các mô hình được huấn luyện sẵn (Salesforce/blip-image-captioning-base, patrickjohncyh/fashion-clip, meta-llama/Meta-Llama-3-8B-Instruct)
 Đại loại là gọi mấy con vợ ra rồi train nếu cần, nều cho mấy con vợ làm việc với nhau thôi. Done project nóng bỏng đầu hè với testcase đầu tiên là anh J97.
+
+Thăm quan HuggingFace-Space của tuii https://huggingface.co/spaces/icyqs/AutoStylish
